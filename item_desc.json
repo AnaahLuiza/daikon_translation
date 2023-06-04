@@ -5,12 +5,10 @@
     "description": "An insane mechanical arm", 
     "usage": "Increases 20% DMG given."
   },
-  
-  "DreEa": {
-    "name": "dream eater",
-    "emoji": "<:mechanical_prosthesis:1110369514165653594>",
-    "description": "An insane mechanical arm", 
-    "usage": "Increases 20% DMG given."
-
+  "CD": {
+    "name": "Manifestation of the Soul",
+    "emoji": "<:soul_manifestation_disk:1110360979834929152>",
+    "description": "jojo reference wotefok", 
+    "usage": "After using this item, will be granted a completely random ability for one turn."
   }
 }
