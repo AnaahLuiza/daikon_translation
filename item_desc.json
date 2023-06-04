@@ -1,21 +1,21 @@
 {
   "mp": {
     "name": "Mechanical Prosthesis",
-    "emoji": "<:mechanical_prosthesis:1110369514165653594>",
+    "image": "<:mechanical_prosthesis:1110369514165653594>",
     "description": "An insane mechanical arm", 
     "usage": "Increases 20% DMG given."
   },
   
   "mots": {
     "name": "Manifestation of the Soul",
-    "emoji": "<:soul_manifestation_disk:1110360979834929152>",
+    "image": "<:soul_manifestation_disk:1110360979834929152>",
     "description": "jojo reference wotefok", 
     "usage": "After using this item, will be granted a completely random ability for one turn."
   },
   
   "dp": {
     "name": "Disposable Shield",
-    "emoji": "<:disposable_shield:1110369384121241692>",
+    "image": "<:disposable_shield:1110369384121241692>",
     "description": "shield aaa", 
     "usage": "Reduces 30% DMG taken. \n Breaks if it takes critical DMG."
   }
