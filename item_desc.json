@@ -1,7 +1,16 @@
 {
-  "test": {
-    "emoji": ""
-    "description": "do smt i think", 
-    "usage": "idk"
+  "MecP": {
+    "name": "Mechanical Prosthesis",
+    "emoji": "<:mechanical_prosthesis:1110369514165653594>",
+    "description": "An insane mechanical arm", 
+    "usage": "Increases 20% DMG given."
+  },
+  
+  "DreEa": {
+    "name": "dream eater",
+    "emoji": "<:mechanical_prosthesis:1110369514165653594>",
+    "description": "An insane mechanical arm", 
+    "usage": "Increases 20% DMG given."
+
   }
 }
