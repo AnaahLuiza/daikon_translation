@@ -18,5 +18,12 @@
     "image": "https://cdn.discordapp.com/attachments/1110338562643202058/1115033791090655332/disposable_shield.png",
     "description": "shield aaa", 
     "usage": "Reduces 30% DMG taken. \n Breaks if it takes critical DMG."
+  },
+  
+  "sde": {
+    "name": "Dream Eater",
+    "image": "https://cdn.discordapp.com/attachments/1110338562643202058/1115033791090655332/disposable_shield.png",
+    "description": "?", 
+    "usage": "?"
   }
 }
