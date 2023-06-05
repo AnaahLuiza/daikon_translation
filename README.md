@@ -23,6 +23,6 @@ Making it capable of also translating the bot in the future in a simple way and 
 *05/06/2023*
 
 # Links
-- **[Add Daikon]()**
+- **[Add Daikon](https://discord.gg/QuGSbPKNMK)**
 - **[Support Server](https://discord.gg/)**
 
