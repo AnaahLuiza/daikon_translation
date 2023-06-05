@@ -1,3 +1,3 @@
-# daikon_translation
-A project with a unique function of saving json files with the content of the translation of each language.
-dps coloco coisa aq aaaa
+# Daikon RPG Bot
+
+- This is a project with the sole purpose of optimize and fully translate and categorize the bot and its texts such as items, stories and much more.
