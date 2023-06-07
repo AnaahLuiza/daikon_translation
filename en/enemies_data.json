@@ -6,7 +6,7 @@
     "def": "2",
     "dmg": "4", 
     "skill": "null",
-    "elements": "phys",
+    "elements": "<:e_phys:1113585110764228728>",
     "color": "#291D79"
   },
 
@@ -17,7 +17,7 @@
     "def": "4",
     "dmg": "6", 
     "skill": "null",
-    "elements": "phys quantum",
+    "elements": "<:e_phys:1113585110764228728> <:e_quantum:1113579226176688189>",
     "color": "#2A5088"
   },
   
@@ -27,8 +27,8 @@
     "hp": "80",
     "def": "6",
     "dmg": "8", 
-    "skill": "null",
-    "elements": "phys quantum",
+    "skill": "Double Attack",
+    "elements": "<:e_phys:1113585110764228728> <:e_quantum:1113579226176688189>",
     "color": "6373282"
   }
 
