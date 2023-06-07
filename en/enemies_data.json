@@ -1,1 +1,9 @@
-
+{
+  "baryon": {
+    "name": "Baryon",
+    "icon": "bruh",
+    "dmg": "4", 
+    "skill": "",
+    "abc": ""
+  }
+}
