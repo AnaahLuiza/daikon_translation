@@ -7,18 +7,20 @@
     "dmg": "4", 
     "skill": "null",
     "elements": "<:e_phys:1113585110764228728>",
-    "color": "#291D79"
+    "color": "#291D79",
+    "description": "In order to prevent antiparticles from dissipating and annihilating normal matter, the Antimatter Legion created two types of miniature ion traps for transportation, collectively referred to as Baryons and Antibaryons"
   },
 
  "abaryon": {
-    "name": "Anti Baryon",
-    "icon": "https://cdn.discordapp.com/attachments/1070385677423874058/1112997611335593995/antibaryon-enemy_icon_100.webp",
-    "hp": "60",
-    "def": "4",
-    "dmg": "6", 
-    "skill": "null",
-    "elements": "<:e_phys:1113585110764228728> <:e_quantum:1113579226176688189>",
-    "color": "#2A5088"
+   "name": "Anti Baryon",
+   "icon": "https://cdn.discordapp.com/attachments/1070385677423874058/1112997611335593995/antibaryon-enemy_icon_100.webp",
+   "hp": "60",
+   "def": "4",
+   "dmg": "6", 
+   "skill": "null",
+   "elements": "<:e_phys:1113585110764228728> <:e_quantum:1113579226176688189>",
+   "color": "#2A5088",
+   "description": ""
   },
   
   "vranger": {
