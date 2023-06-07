@@ -1,9 +1,20 @@
 {
   "baryon": {
     "name": "Baryon",
-    "icon": "bruh",
+    "icon": "https://cdn.discordapp.com/attachments/1070385677423874058/1112997624556032030/baryon-enemy_icon_100.webp",
+    "hp": "40",
     "dmg": "4", 
-    "skill": "",
-    "abc": ""
+    "skill": "null",
+    "elements": "phys"
+  },
+
+ "abaryon": {
+  "name": "Baryon",
+    "icon": "https://cdn.discordapp.com/attachments/1070385677423874058/1112997624556032030/baryon-enemy_icon_100.webp",
+    "hp": "60",
+    "dmg": "6", 
+    "skill": "null",
+    "elements": "phys quantum"
   }
+  
 }
