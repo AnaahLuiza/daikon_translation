@@ -7,7 +7,7 @@
     "dmg": "4", 
     "skill": "null",
     "elements": "phys",
-    "color": "291D79"
+    "color": "#291D79"
   },
 
  "abaryon": {
@@ -18,7 +18,7 @@
     "dmg": "6", 
     "skill": "null",
     "elements": "phys quantum",
-    "color": "2773738"
+    "color": "#2A5088"
   },
   
   "vranger": {
@@ -29,7 +29,7 @@
     "dmg": "8", 
     "skill": "null",
     "elements": "phys quantum",
-    "color": "ui"
+    "color": "6373282"
   }
 
 }
