@@ -9,12 +9,21 @@
   },
 
  "abaryon": {
-  "name": "Baryon",
-    "icon": "https://cdn.discordapp.com/attachments/1070385677423874058/1112997624556032030/baryon-enemy_icon_100.webp",
+    "name": "Anti Baryon",
+    "icon": "https://cdn.discordapp.com/attachments/1070385677423874058/1112997611335593995/antibaryon-enemy_icon_100.webp",
     "hp": "60",
     "dmg": "6", 
     "skill": "null",
     "elements": "phys quantum"
-  }
+  },
   
+  "vranger": {
+    "name": "Void Ranger: Reaver",
+    "icon": "https://cdn.discordapp.com/attachments/1070385677423874058/1112997611100721152/voidranger-reaver-enemy_icon_100.webp",
+    "hp": "80",
+    "dmg": "8", 
+    "skill": "null",
+    "elements": "phys quantum"
+  }
+
 }
