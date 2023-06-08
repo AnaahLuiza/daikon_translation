@@ -2,9 +2,12 @@
  "player_dmg": "Atacou `{!ini!}` causando **{!dmg!}** de dano",
  "ini_dmg": "Atacou `{!username!}` causando **{!dmg!}** de dano",
  "crit_msg": "Criticamente",
- "player_miss_msg": "Tentou Atacar {!username!} mas falhou",
- "ini_miss_msg": "Tentou Atacar {!ini!} mas falhou",
- "def_nullified": "Atacou {!username!}, mas sua defesa anulou o dano",
+ 
+ "player_miss_msg": "Tentou Atacar {!ini!} mas falhou",
+ "ini_miss_msg": "Tentou Atacar {!player!} mas falhou",
+ 
+ "player_def_nullified": "Atacou {!username!}, mas sua defesa anulou o dano",
+ "ini_def_nullified": "Atacou {!ini!}, mas sua defesa anulou o dano",
  
  "atk": "Atacar",
  "skill": "Habilidade",
