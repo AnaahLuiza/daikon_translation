@@ -3,10 +3,8 @@
  "ini_dmg": "Atacou `{!username!}` causando **{!dmg!}** de dano",
  "crit_msg": "Criticamente",
  
- "buttons": {
  "atk": "Atacar",
  "skill": "Habilidade",
  "quickitem": "Item Rápido",
  "run": "Fugir"
- }
 }
