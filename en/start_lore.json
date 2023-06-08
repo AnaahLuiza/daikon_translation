@@ -7,5 +7,6 @@
   "choice_3": "Where am I?",
   "choice_4": "5 more minutes mom",
   "badend": "Uh.. forget it then. I'll look for someone else.",
-  "lore": ""
+  "lore_1": "Hey, No time for questions ok?\n\nWe need you to resolve this situation.\n\nI unfortunately had to *forcibly* remove you from your current universe, and I don't have enough power to bring you back so soon.\n\nWhen you reincarnate into this world, you will end up remembering it with a dream...\n\nSo I'll be as precise as possible...",
+  "continuebutton": "Continue"
  }
