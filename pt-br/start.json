@@ -1,9 +1,5 @@
-{ 
-  
-  "title_b": "Antes de começar:", 
-  "title_a": "Depois de Começar:", 
-  "desc_b": "Você deve concordar com as **regras** e **diretrizes** do bot antes de começar a usar o Daikon.", 
-  "desc_a": "Você já concordou com as **regras** e **diretrizes** da Daikon, mas ainda pode ler as Diretrizes.", 
-  "viewrules": "Ver Regras" 
-
-}
+{
+    "title": "Ao clicar em aceitar regras, você concorda que:",
+    "desc": "Eu concordo e confirmo que li as DIRETRIZES DAIKON©, e mais:\n- Estou ciente de que aqueles que não estiverem comprometidos com o bom senso ao usar DAIKON resultarão em punições para o indivíduo.\n- Ao usar o daikon, ele armazena sua ID de usuário, nome, avatar e mantém informações sobre todos os comandos que você executou para funcionar corretamente.",
+    "button": "Aceitar Regras"
+      }
