@@ -2,7 +2,8 @@
  "player_dmg": "Atacou `{!ini!}` causando **{!dmg!}** de dano",
  "ini_dmg": "Atacou `{!username!}` causando **{!dmg!}** de dano",
  "crit_msg": "Criticamente",
- 
+ "miss_msg": "",
+ "def_nullified": "",
  "atk": "Atacar",
  "skill": "Habilidade",
  "quickitem": "Item Rápido",
