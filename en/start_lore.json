@@ -1,4 +1,9 @@
 {
   "author": "A message inside your mind.",
-  "desc_1": "Is this thing working?\nCan you hear me?"
+  "desc_1": "Is this thing working?\nCan you hear me?",
+  "daikontalk": "Talk with Daikon",
+  "choice_1": "Hello?",
+  "choice_2": "Who are you?",
+  "choice_3": "Where am I?",
+  "choice_4": "5 more minutes mom"
  }
