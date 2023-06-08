@@ -5,5 +5,7 @@
   "choice_1": "Hello?",
   "choice_2": "Who are you?",
   "choice_3": "Where am I?",
-  "choice_4": "5 more minutes mom"
+  "choice_4": "5 more minutes mom",
+  "badend": "Uh.. forget it then. I'll look for someone else.",
+  "lore": ""
  }
