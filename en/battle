@@ -1,12 +1,11 @@
 {
  "player_dmg": "Attacked `{!ini!}` dealing **{!dmg!}** dmg",
  "ini_dmg": "Attacked `{!username!}` dealing **{!dmg!}** dmg",
- "crit_msg": "Critically"
+ "crit_msg": "Critically",
  
- "buttons": {
  "atk": "Attack",
  "skill": "Skill",
  "quickitem": "Quick-Item",
  "run": "Run"
- }
+
 }
