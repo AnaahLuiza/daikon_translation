@@ -1,5 +1,10 @@
 {
-  "1_before": [
+
     "title_b": "Before Starting:",
+    "title_a": "After Starting:",
     
+    "desc_b": "You must agree to the bot's **rules** and **guidelines** before start using Daikon.",
+    "desc_a": "You have already agreed with Daikon **rules** and **guidelines**, but you can still read the Guidelines.",
+    
+    "viewrules": "View Rules"
 }
