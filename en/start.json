@@ -1,5 +1,5 @@
 {
-   "1": [
+   "1": {
     "title_b": "Before Starting:",
     "title_a": "After Starting:",
     
@@ -7,12 +7,12 @@
     "desc_a": "You have already agreed with Daikon **rules** and **guidelines**, but you can still read the Guidelines.",
     
     "viewrules": "View Rules"
-       ]
+       },
     
-    "2": [
+    "2": {
     "title": "By clicking accept rules, you agree that:",
     "desc": "I agree and confirm that I have read the Daikon© [GUIDELINES\](https://discord.gg/JrzNJ8N5z2), and furthermore:\n- I am aware that those who are not committed to common sense when using DAIKON will result in punishments for the individual who committed it.\n- While Using daikon, It stores your User ID, Name, Avatar, and keeps information about every command you have executed to function properly.",
    "button": "Accept Rules"
-      ]
+      }
 
 }
