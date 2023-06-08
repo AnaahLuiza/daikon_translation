@@ -4,7 +4,7 @@
  "crit_msg": "Critically",
  
  "player_miss_msg": "Tried to attack {!ini!} but failed",
- "ini_miss_msg": "Tried to attack {!player!} but failed",
+ "ini_miss_msg": "Tried to attack {!username!} but failed",
  
  "player_def_nullified": "Attacked {!username!}, but its defense nullified the damage",
 "ini_def_nullified": "Attacked {!ini!}, but its defense nullified the damage",
