@@ -12,6 +12,6 @@
  "atk": "Attack",
  "skill": "Skill",
  "quickitem": "Quick-Item",
- "run": "Run"
-
+ "run": "Run",
+ "iniact": "Enemy Action"
 }
