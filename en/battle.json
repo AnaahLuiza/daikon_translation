@@ -14,4 +14,12 @@
  "quickitem": "Quick-Item",
  "run": "Run",
  "iniact": "Enemy Action"
+ 
+  "win": "Victory!",
+  "w_desc": "you defeated {!ini!}.",
+  "pick_button": "Pickup",
+  "lose": "Defeat!",
+  "l_desc": "you were incapacitated by {!ini!}.",
+  "run": "you ran away."
+
 }
