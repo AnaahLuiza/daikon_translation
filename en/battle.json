@@ -13,7 +13,7 @@
  "skill": "Skill",
  "quickitem": "Quick-Item",
  "run": "Run",
- "iniact": "Enemy Action"
+ "iniact": "Enemy Action",
  
   "win": "Victory!",
   "w_desc": "you defeated {!ini!}.",
