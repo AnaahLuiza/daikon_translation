@@ -14,4 +14,13 @@
  "quickitem": "Item Rápido",
  "run": "Fugir",
  "iniact": "Ação Inimiga"
+ 
+  "win": "Vitoria!",
+  "w_desc": "Você derrotou {!ini!}.",
+  "pick_button": "Recolher",
+  "lose": "Derrota!",
+  "l_desc": "Você foi incapacitado por {!ini!}.",
+  "run": "Você fugiu."
+
+
 }
