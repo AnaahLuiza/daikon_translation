@@ -12,5 +12,6 @@
  "atk": "Atacar",
  "skill": "Habilidade",
  "quickitem": "Item Rápido",
- "run": "Fugir"
+ "run": "Fugir",
+ "iniact": "Turno do Inimigo"
 }
