@@ -13,7 +13,7 @@
  "skill": "Habilidade",
  "quickitem": "Item Rápido",
  "run": "Fugir",
- "iniact": "Ação Inimiga"
+ "iniact": "Ação Inimiga",
  
   "win": "Vitoria!",
   "w_desc": "Você derrotou {!ini!}.",
