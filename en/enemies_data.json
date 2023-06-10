@@ -1,4 +1,11 @@
 {
+  "fields": {
+    "description": "Description",
+    "skill": "Skills",
+    "elements": "Elements"
+    
+   },
+  
   "baryon": {
     "name": "Baryon",
     "icon": "https://cdn.discordapp.com/attachments/1070385677423874058/1112997624556032030/baryon-enemy_icon_100.webp",
