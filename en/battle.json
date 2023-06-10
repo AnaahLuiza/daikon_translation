@@ -20,7 +20,7 @@
   "pick_button": "Pickup",
   "lose": "Defeat!",
   "l_desc": "you were incapacitated by {!ini!}.",
-  "l_run": "you ran away."
+  "l_run": "you ran away.",
 
   "pick_title": "You Found:"
 }
