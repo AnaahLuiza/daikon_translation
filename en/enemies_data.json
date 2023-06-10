@@ -2,8 +2,8 @@
   "fields": {
     "title": "Stats",
     "description": "Description",
-    "skill": "Skills",
-    "elements": "Elements"
+    "skill": "SKILLS",
+    "elements": "ELEMENTS"
 },
   
   "baryon": {
