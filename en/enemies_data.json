@@ -1,10 +1,10 @@
 {
   "fields": {
+    "title": "Stats",
     "description": "Description",
     "skill": "Skills",
     "elements": "Elements"
-    
-   },
+},
   
   "baryon": {
     "name": "Baryon",
