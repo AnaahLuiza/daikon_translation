@@ -1,0 +1,45 @@
+{
+  "fields": {
+    "title": "Estatísticas",
+    "description": "Descrição",
+    "skill": "HABILIDADES",
+    "elements": "ELEMENTOS"
+},
+  
+  "baryon": {
+    "name": "Baryon",
+    "icon": "https://cdn.discordapp.com/attachments/1070385677423874058/1112997624556032030/baryon-enemy_icon_100.webp",
+    "hp": "40",
+    "def": "2",
+    "dmg": "4", 
+    "skill": "Nenhuma",
+    "elements": "<:e_phys:1113585110764228728>",
+    "color": "#291D79",
+    "description": "A fim de evitar que as antipartículas se dissipem e aniquilem a matéria normal, a Legião da Antimatéria criou dois tipos de armadilhas de íons em miniatura para transporte, conhecidas coletivamente como Baryon e AntiBaryons"
+  },
+
+ "abaryon": {
+   "name": "Anti Baryon",
+   "icon": "https://cdn.discordapp.com/attachments/1070385677423874058/1112997611335593995/antibaryon-enemy_icon_100.webp",
+   "hp": "60",
+   "def": "4",
+   "dmg": "6", 
+   "skill": "Nenhuma",
+   "elements": "<:e_phys:1113585110764228728> <:e_quantum:1113579226176688189>",
+   "color": "#2A5088",
+   "description": "A fim de evitar que as antipartículas se dissipem e aniquilem a matéria normal, a Legião da Antimatéria criou dois tipos de armadilhas de íons em miniatura para transporte, conhecidas coletivamente como Baryon e AntiBaryons"
+  },
+  
+  "vranger": {
+    "name": "Void Ranger: Reaver",
+    "icon": "https://cdn.discordapp.com/attachments/1070385677423874058/1112997611100721152/voidranger-reaver-enemy_icon_100.webp",
+    "hp": "80",
+    "def": "6",
+    "dmg": "8", 
+    "skill": "Double Attack",
+    "elements": "<:e_phys:1113585110764228728> <:e_quantum:1113579226176688189>",
+    "color": "6373282",
+    "description": "Os guerreiros que ainda não morreram foram reformulados no Warforge e ganharam o poder da Destruição. A antimatéria completa seus corpos e as partículas negativas reverberam em suas formas."
+  }
+
+}
